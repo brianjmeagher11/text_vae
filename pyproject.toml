@@ -1,0 +1,15 @@
+[project]
+name = "text-vae"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "ipython>=9.8.0",
+    "ipywidgets>=8.1.8",
+    "jupyter>=1.1.1",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "torch>=2.9.1",
+]
