@@ -9,6 +9,7 @@ dependencies = [
     "ipython>=9.8.0",
     "ipywidgets>=8.1.8",
     "jupyter>=1.1.1",
+    "kagglehub>=0.3.13",
     "numpy>=2.3.5",
     "pandas>=2.3.3",
     "torch>=2.9.1",
